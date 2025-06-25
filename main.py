@@ -51,8 +51,6 @@ def count_and_seperate():
             empty_dict[i] = 1
         print()
     return empty_dict
-
-
 print(count_and_seperate())
 
 
